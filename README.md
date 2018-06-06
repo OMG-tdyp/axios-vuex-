@@ -1,6 +1,6 @@
 # vuextest
 
-> A Vue.js project
+> axios封装+vuex模拟登录+vuex初步模拟使用demo
 
 ## Build Setup
 
